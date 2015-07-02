@@ -1,0 +1,12 @@
+# Site settings
+title: Michael Brown's Super Awesome Website of Terror
+email: michelbrownsf@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A site for and about Michael Brown, a student at The Iron Yard.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: michaelbrownsf
+github_username:  michaelbrownsf
+
+# Build settings
+markdown: kramdown
