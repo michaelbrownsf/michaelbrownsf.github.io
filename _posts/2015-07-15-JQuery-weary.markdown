@@ -20,7 +20,9 @@ In my GoodReads.com redesign I also wanted to save some real estate for some muc
 
 This was really easy to accomplish using code that I had created from the first codepen.
 
-Lastly, I wanted to show on mouseover a yello container div that was below an image of 5 star outlines. This is still a work in progress.
+Lastly, I wanted to show on mouseover a yellow container div that was below an image of 5 star outlines. This is still a work in progress.
 
 <p data-height="268" data-theme-id="0" data-slug-hash="LVroJR" data-default-tab="result" data-user="michaelbrownsf" class='codepen'>See the Pen <a href='http://codepen.io/michaelbrownsf/pen/LVroJR/'>LVroJR</a> by Michael Brown (<a href='http://codepen.io/michaelbrownsf'>@michaelbrownsf</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Hopefully I can get it working soon!
