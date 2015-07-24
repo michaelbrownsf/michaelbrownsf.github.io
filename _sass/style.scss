@@ -11,20 +11,17 @@ body {
 }
 
 h1 {
-    font-family: Baumans,serif;
     font-style: normal;
     font-weight: 300;
-    font-size: 1.7em;
-    font-size: 27px;
+    font-size: 2.5em;
+    font-size: 40px;
 }
 
 h2 {
     font-family: "lato",sans-serif;
-    font-style: normal;
-    font-weight: 700;
     color: #23466F;
-    font-size: 1.5em;
-    font-size: 20px;
+    font-size: 1.75em;
+    font-size: 28px;
     text-align: right;
     padding: 1em;
 }
@@ -54,12 +51,15 @@ p {
 }
 
 header {
+    font-face: 'Baumans', sans-serif;
     background: #23466F;
     p {
         margin-left: 20px;
         color: white;
         font-size: .75em;
         font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
     }
 }
 
@@ -68,9 +68,9 @@ header {
     background-size: 150px;
     width: 150px;
     height: 150px;
-    position: relativem;
-        top: 50;
-        right: 10;
+    position: absolute;
+    top: 50px;
+    right: 10px;
     z-index: 1000;
 }
 
@@ -81,11 +81,12 @@ nav {
     a:hover {
         text-decoration: none;
         color: #222b30;
-        background: #bada55;
+        background: rgba(196, 217, 97, 1);
     }
 }
 
 .name {
+    
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -127,27 +128,34 @@ nav {
 }
 
 .mb {
-    max-width: 40%;
-    min-width: 30%;
+    max-width: 75%;
+    min-width: 50%;
     border-radius: 50%;
     border: 5px solid #23466F;
 }
 
+.footer-space {
+    width: 100%;
+    height: 25px;
+}
 
 footer {
     width: 100%;
-    height: 150px;
-    margin-top: 55px;
+    height: 120px;
+    margin-top: 50px;
     margin-left: 25px;
-    text-align: center;
-        img {
-            margin-top: 40px;
-            margin-left: 10px;
-            width: 30px;
-            border-radius: 50%;
-            border: 3px solid #222b30;
-                &:hover {
-                    border: 3px solid #bada55;
+    margin-bottom: 25px;
+    background: #222b30;
+    margin-left: auto;
+    margin-right: auto;
+    img {
+        margin-top: 40px;
+        margin-left: 10px;
+        width: 30px;
+        border-radius: 50%;
+        border: 3px solid #222b30;
+        &:hover {
+            border: 3px solid #bada55;
         }
     }
 }
@@ -158,6 +166,11 @@ footer {
     }
 }
 
-.post-meta {
-    color: #d8d8d8;
+@media screen and (min-width: 500px) {
+    .blog, .project {
+        width: 46%;
+        float: left;
+        overflow: hidden;
+        margin-left: 2%;
+    }
 }
