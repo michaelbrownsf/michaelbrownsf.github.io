@@ -1,2 +1,1 @@
-# michaelbrownsf.codepen.io
-# michaelbrownsf.codepen.io
+personal site for Michael Brown
