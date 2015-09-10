@@ -1,2 +1,29 @@
-<footer class="icon"><p><a href="http://www.github.com/michaelbrownsf"><img src="/i/github.png" alt="github"><a href="http://www.twitter.com/michaelbrownsf"><img src="/i/twitter.png" alt="twitter"></a><a href="https://www.linkedin.com/pub/michael-brown/ba/938/14a"><img src="/i/linked-in.png" alt="linked in"></a><a href="https://dribbble.com/michaelbrownsf"><img src="/i/dribbble.png" alt="dribbble"></a><a href="http://www.codepen.io/michaelbrownsf"><img src="/i/codepen.png" alt="codepen"></a><a href="mailto:michaelbrownsf@gmail.com"><img src="/i/email.png" alt="email"> </a>
-</footer>
+<div id="footerwrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <h4>About</h4>
+                <div class="hline-w"></div>
+                <p>{{ site.about }}</p>
+            </div>
+            <div class="col-lg-4">
+                <h4>Social Links</h4>
+                <div class="hline-w"></div>
+                <p>
+                    {% for network in site.social %}
+                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
+                    {% endfor %}
+                </p>
+            </div>
+            <div class="col-lg-4">
+                <h4>The Forge</h4>
+                <div class="hline-w"></div>
+                <p>
+                    {% for line in site.address.first.lines %}
+                        {{ line }} <br>
+                    {% endfor %}
+                </p>
+            </div>
+        </div><! --/row -->
+    </div><! --/container -->
+</div><! --/footerwrap -->

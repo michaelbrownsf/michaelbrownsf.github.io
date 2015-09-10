@@ -1,16 +1,13 @@
-<header> 
-<div class="logo"></div>
-<div class="name"><h1>Michael Brown</h1>
-    </div>
-      
-       <nav class="nav-collapse">	
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-   
-    </nav>
- 
-
+<header>
+<div id="headerwrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+            </div>
+            <div class="col-lg-8 col-lg-offset-2 himg">
+                <!-- <img src="{{ "/assets/img/browser.png" | prepend: site.baseurl }}" class="img-responsive"> -->
+            </div>
+        </div><!-- /row -->
+    </div> <!-- /container -->
+</div><!-- /headerwrap -->
 </header>

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Week One"
-date:   2015-05-25 
-categories: blog
----
-I thought I was ready. I really did. The amount that I was not prepared was staggering. My brain (rusty from years of bopring repetitive admin work) throbbed almost nightly. The years of working in Silicon Valley in the 90s that I thought would be helpful turned out to hold me back. Having to let go of old ways of doing things and accept this new method and absorb all this knowledge is a task that I never fully saw the scope of.  
-
-I'm in it 100% though and I will come out the other side better for it.

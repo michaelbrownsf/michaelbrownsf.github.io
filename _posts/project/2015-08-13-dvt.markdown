@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "DVT"
+date:   2015-08-13
+author: Michael Brown
+categories: 
+- final project
+- demo-days
+img: portfolio_09.jpg
+thumb: thumb02.jpg
+carousel:
+- single01.jpg
+
+client: The Iron Yard
+website: http://michaelbrownsf.github.io/dvt/
+---
+####DVT Public Service Website
+Placeholder text.
+
+####My Process
+Placeholder text.

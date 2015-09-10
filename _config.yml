@@ -1,11 +1,65 @@
+### GENERAL SETTINGS ###
+
 # Site settings
 title: Michael Brown
-email: michelbrownsf@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: michaelbrownsf
-github_username:  michaelbrownsf
+description: "The home of Michael Brown, a User Interface Designer in Austin, TX"
+# analytics: UA-66654427-1
+baseurl: "" #important: start with /
+url: "http://yourdomain.com"
 
 # Build settings
 markdown: kramdown
+excerpt_separator: <!-- more --> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#628b9c" #"#F70031"
+  primary_rgb: "98, 139, 156" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#001b26" #"#33004D"
+  link: "orange"
+  link_hover: "#bada55"
+  footer_heading: "#ffffff"
+  footer_content: "#999"
+
+
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: dribbble
+    url: https://dribbble.com/michaelbrownsf
+  - title: twitter
+    url: https://twitter.com/michaelbrownsf
+  - title: codepen
+    url: http://codepen.io/michaelbrownsf/
+  - title: github
+    url:  https://github.com/michaelbrownsf
+
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines:
+    - 219 Pigeon Berry Pass
+    - Buda, TX 78610
+    - United States.
+email: michelbrownsf@gmail.com
+tel: 512.784.0731
+
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+
+# Members information. Shown on About page.
+members:
+  - name: Roscoe
+    position: Lead Boston Terrier
+    text: Eating yummy treats.
+    img: team01.jpg
+
+  - name: Heidi
+    position: Junior Dachsund
+    text: Insistent on lots of attention.
+    img: team02.jpg
+
+
+
+
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "A totally recharged designer with fresh, responsive skills looking for work."

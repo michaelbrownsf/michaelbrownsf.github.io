@@ -2,9 +2,9 @@
 layout: post
 title:  "Week Three"
 date:   2015-06-08
-categories: blog
+categories: sketching grids 12column
 ---
-Still recovering from my hospital stay and trying to get things back on track code-wise. I'm still behind on the weekend assignment...stuck with a content div that won't move. Hoping Sam will help me fix on Wednesday so that I can put this assignment to rest and be caught up with the rest of the class. 
+Still recovering from my hospital stay and trying to get things back on track code-wise. I'm still behind on the weekend assignment...stuck with a content div that won't move. <!-- more -->Hoping Sam will help me fix on Wednesday so that I can put this assignment to rest and be caught up with the rest of the class.
 
 Grid layouts make sense to my head but coding the CSS and HTML for them doesn't seem to come easily. I'll tinker more with it tonight.
 

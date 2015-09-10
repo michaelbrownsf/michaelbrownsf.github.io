@@ -1,14 +1,8 @@
 ---
-layout: portfolio
+layout: default
 ---
-<div class="portfolio">
+{% include wrap.html %}
 
-  <header class="portfolio-header">
-    <h1 class="portfolio-title">{{ page.title }}</h1>
-  </header>
+  {{ content }}
 
-  <article class="portfolio-content">
-    {{ content }}
-  </article>
-
-</div>
+{% include portfolio.html %}

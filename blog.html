@@ -1,52 +1,32 @@
-<html>
-<head>
-	<title>Michael Brown</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="/css/style.css">
-	<script src="js/responsive-nav.min.js"></script>
-	<script src="//use.typekit.net/tqy5tfy.js"></script>
-	<script>try{Typekit.load();}catch(e){}</script>
-</head>
-<body>
+---
+layout: blog
+title: Blog
+permalink: /blog/
+---
 
-<header>
-	<div class="logo"><!-- --></div><div class="name"><h1>Michael Brown</h1>
-		</div>
-	<nav class="nav-collapse">
-	    <ul>
-	    <li><a href="about.html">&nbsp;about&nbsp;</a></li>
-	    <li><a href="portfolio.html">&nbsp;portfolio&nbsp;</a></li>
-	    <li><a href="blog.html">&nbsp;blog&nbsp;</a></li>
-	  </ul>
-	</nav>
+<div class="container mtb">
+    <div class="row">
 
-</header>
+        <! -- BLOG POSTS LIST -->
+        <div class="col-lg-8">
 
+            {% for post in site.categories['blog'] %}
+                <! -- Blog Post -->
+                <!-- <a href="{{ post.url | prepend: site.baseurl }}">
+                    <img class="img-responsive" src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ post.img }}">
+                </a> -->
+                <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ post.title }}</h3></a>
+                <p><csmall>{{ post.date | date: "%b %-d, %Y" }}. | By: Michael</csmall></p>
+                {{ post.excerpt }}
+                <p><a href="{{ post.url | prepend: site.baseurl }}">[Read More]</a></p>
+                <div class="hline"></div>
 
+                <div class="spacing"></div>
+            {% endfor %}
 
-<script>
-  var nav = responsiveNav(".nav-collapse");
-</script>
-</body>
-<div class="content">
-	<div class="row">
-		<div class="blog"><h3>Blog 1</h3><p>Lorem ipsum place holder text. Lorem ipsum place holder text. <a href="#">read more</a></div>
-		<div class="blog"><h3>Blog 2</h3><p>Lorem ipsum place holder text. Lorem ipsum place holder text. <a href="#">read more</a></div>
-	</div>	
-	<div class="row">
-		<div class="blog"><h3>Blog 3</h3><p>Lorem ipsum place holder text. Lorem ipsum place holder text. <a href="#">read more</a></div>
-		<div class="blog"><h3>Blog 4</h3><p>Lorem ipsum place holder text. Lorem ipsum place holder text. <a href="#">read more</a></div>
-	</div>
-	<div class="row">
-		<div class="blog"><h3>Blog 5</h3><p>Lorem ipsum place holder text. Lorem ipsum place holder text. <a href="#">read more</a></div>
-		<div class="blog"><h3>Blog 6</h3><p>Lorem ipsum place holder text. Lorem ipsum place holder text. <a href="#">read more</a></div>
-	</div>
-	
+        </div><! --/col-lg-8 -->
 
-	</div>
-<div class="footer-space"></div>
-<footer class="icon"><a href="http://www.github.com/michaelbrownsf"><img src="/i/github.png" alt="github"><a href="http://www.twitter.com/michaelbrownsf"><img src="/i/twitter.png" alt="twitter"></a><a href="https://www.linkedin.com/pub/michael-brown/ba/938/14a"><img src="/i/linked-in.png" alt="linked in"></a><a href="https://dribbble.com/michaelbrownsf"><img src="/i/dribbble.png" alt="dribbble"></a><a href="http://www.codepen.io/michaelbrownsf"><img src="/i/codepen.png" alt="codepen"></a><a href="mailto:michaelbrownsf@gmail.com"><img src="/i/email.png" alt="email"></a>
-</footer>
-</footer>
+        {% include sidebar.html %}
 
-</html>
+    </div><! --/row -->
+</div><! --/container -->
