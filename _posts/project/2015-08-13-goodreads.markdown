@@ -5,16 +5,12 @@ date:   2015-08-13
 author: Michael Brown
 categories:
 - project
-img: portfolio_09.jpg
+img: portfolio_01.jpg
 carousel:
-- dvt01.png
-- dvt02.jpg
+- gr01.png
+- gr02.png
 
-client: The Iron Yard
-website: http://michaelbrownsf.github.io/dvt/
+client: Goodreads.com
 ---
-####
-Placeholder text.
 
-####My Process
-Placeholder text.
+I was taught back in the 90s that Photoshop was for mocking up. Much to my surprise, I was told that is no longer the case. My first foray into AI site mock ups was for an exisiting site Goodreads.com.

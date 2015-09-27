@@ -10,6 +10,8 @@ carousel:
 - dvt01.png
 - dvt02.png
 - dvt03.png
+- dvt04.png
+- dvt05.png
 
 client: The Iron Yard
 website: http://michaelbrownsf.github.io/dvt/
