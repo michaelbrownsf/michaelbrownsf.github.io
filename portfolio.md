@@ -1,7 +1,5 @@
 ---
 layout: portfolio
-title: portfolio
+title: My Portfolio
 permalink: /portfolio/
 ---
-
-My portfolio

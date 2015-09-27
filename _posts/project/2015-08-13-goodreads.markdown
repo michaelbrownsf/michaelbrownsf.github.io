@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "DVT"
+title:  "Goodreads Revamp"
 date:   2015-08-13
 author: Michael Brown
 categories:
@@ -13,7 +13,7 @@ carousel:
 client: The Iron Yard
 website: http://michaelbrownsf.github.io/dvt/
 ---
-####DVT Public Service Website
+####
 Placeholder text.
 
 ####My Process
