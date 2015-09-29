@@ -1,0 +1,16 @@
+---
+layout: project
+title:  "My Resume"
+date:   2015-09-27
+author: Michael Brown
+
+categories:
+- project
+img: portfolio_04.jpg
+carousel:
+- res01.png
+
+client: self
+---
+
+Boring resumes are boring. I wanted something that gave the reader the sense that I am serious about visuals.

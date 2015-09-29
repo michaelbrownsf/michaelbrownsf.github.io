@@ -13,11 +13,7 @@ carousel:
 - dvt04.png
 - dvt05.png
 
-client: The Iron Yard
+client: The Iron Yard Final Project
 website: http://michaelbrownsf.github.io/dvt/
 ---
-####DVT Public Service Website
-Placeholder text.
-
-####My Process
-Placeholder text.
+My final project was a labor of love, so to speak. Drawing on my own experience while gathering information after my own diagnosis led me to create this site.

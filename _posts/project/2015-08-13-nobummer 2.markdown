@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "No Bummer Summer"
+date:   2015-08-13
+author: Michael Brown
+categories:
+- project
+img: portfolio_02.jpg
+carousel:
+- nbs01.png
+- nbs02.png
+- nbs03.png
+- nbs04.png
+
+client: Iron Yard Hack-a-thon
+website: https://no-bummer-summer-2015.herokuapp.com
+---
+
+Our first chance to work as teams. My team decided to go with a web app that gave you a checklist of things to do to make your summer fun and would keep track of your progress when you logged in.
+
+Lots of version control and merge conflicts. While our project was never finished, the final image in the carousel is what it would have looked like in the final version.
