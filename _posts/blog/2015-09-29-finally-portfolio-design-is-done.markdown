@@ -2,7 +2,7 @@
 layout: post
 title:  Finally... Portfolio Design is Done!
 date:   2015-09-29
-categories: blog jobsearch portfolio
+categories: blog jobsearch 
 ---
 I'm finally satisfied with the way my portfolio content is being generated.<!-- more -->
 
