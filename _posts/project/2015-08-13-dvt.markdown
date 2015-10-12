@@ -17,3 +17,9 @@ client: The Iron Yard Final Project
 website: http://michaelbrownsf.github.io/dvt/
 ---
 My final project was a labor of love, so to speak. Drawing on my own experience while gathering information after my own diagnosis led me to create this site.
+
+I started by coming up with three color schemes which were narrowed down to the final pallete via user testing.
+
+I then gathered all the information I had collected over the weeks prior to the project start date and began sketching out layouts for the data.
+
+I then decided to tell the story for my site in a linear fashion making navigation easy and obvious even for people unfamiliar with computer use.
