@@ -2,7 +2,7 @@
 layout: post
 title:  "Week Three"
 date:   2015-06-08
-categories: grids 12column
+categories: blog grids 12column
 ---
 Still recovering from my hospital stay and trying to get things back on track code-wise. I'm still behind on the weekend assignment...stuck with a content div that won't move. <!-- more -->Hoping Sam will help me fix on Wednesday so that I can put this assignment to rest and be caught up with the rest of the class.
 
