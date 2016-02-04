@@ -1,0 +1,14 @@
+---
+layout: project
+title:  "DaxLegal.com Redesign"
+date:   2016-02-04
+author: Michael Brown
+categories:
+- project
+img: dax_01.jpg
+carousel:
+- dax01.png
+- dax02.png
+
+client: Dax Garvin (Site still being developed)
+---
