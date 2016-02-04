@@ -12,10 +12,10 @@ markdown: kramdown
 excerpt_separator: <!-- more --> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#3f9cad" #"#F70031"
-  primary_rgb: "63, 156, 163" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#00825c" #"#33004D"
-  link: "#ed8138"
+  primary: "#628b9c" #"#F70031"
+  primary_rgb: "98, 139, 156" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#001b26" #"#33004D"
+  link: "orange"
   link_hover: "#bada55"
   footer_heading: "#ffffff"
   footer_content: "#999"
