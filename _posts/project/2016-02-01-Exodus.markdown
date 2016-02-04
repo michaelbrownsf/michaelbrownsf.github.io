@@ -1,0 +1,14 @@
+---
+layout: project
+title:  "ExodusFutbol.com Redesign"
+date:   2016-02-01
+author: Michael Brown
+categories:
+- project
+img: exodus_01.jpg
+carousel:
+- exo01.png
+- exo02.png
+
+client: Exodus Futbol Club  (Site still being developed)
+---
