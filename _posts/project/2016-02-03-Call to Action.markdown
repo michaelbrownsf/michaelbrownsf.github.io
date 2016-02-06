@@ -12,4 +12,4 @@ carousel:
 
 client: undisclosed
 ---
-Detailed explanation coming soon.
+In a recent bid for employment, I was tasked with trying to rework my potential employers Call To Action area on their homepage (which had very low click throughs) and deliver a concept people would know what to do with when they saw it.
