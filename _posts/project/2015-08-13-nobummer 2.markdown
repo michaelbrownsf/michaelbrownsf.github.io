@@ -13,8 +13,9 @@ carousel:
 - nbs04.png
 
 client: Iron Yard Hack-a-thon
-website: https://no-bummer-summer-2015.herokuapp.com
+website: currently offline
 ---
+**This app is currently offline. ** 
 
 Our first chance to work as teams. My team decided to go with a web app that gave you a checklist of things to do to make your summer fun and would keep track of your progress when you logged in.
 
