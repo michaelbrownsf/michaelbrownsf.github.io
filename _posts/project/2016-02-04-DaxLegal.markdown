@@ -8,7 +8,7 @@ categories:
 img: dax_01.jpg
 carousel:
 - dax01.png
-- dax02.png
-
+website: http://michaelbrownsf.github.io/dax
 client: Dax Garvin (Site still being developed)
 ---
+This site is still being developed but is on hold per the client.

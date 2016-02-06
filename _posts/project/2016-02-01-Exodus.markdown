@@ -8,7 +8,8 @@ categories:
 img: exodus_01.jpg
 carousel:
 - exo01.png
-- exo02.png
 
-client: Exodus Futbol Club  (Site still being developed)
+website: http://www.exodusfutbol.com
+client: Exodus Futbol Club
 ---
+This site is still under development.
