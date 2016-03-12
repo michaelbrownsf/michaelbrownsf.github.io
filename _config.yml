@@ -50,12 +50,12 @@ tel: 512.784.0731
 members:
   - name: Roscoe
     position: Lead Boston Terrier
-    text: Eating yummy treats.
+    text: Fetch, fetch and more fetch!
     img: team01.jpg
 
   - name: Heidi
-    position: Junior Dachsund
-    text: Lead toy Quality Assurance tester
+    position: Toy QA tester
+    text:  Never met a toy I couldn't destroy!
     img: team02.jpg
 
 
