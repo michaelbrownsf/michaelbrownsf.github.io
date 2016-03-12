@@ -9,3 +9,5 @@ categories: blog DailyUI
  My first DailyUI assignment!
 
 ![dailyui001](/i/dailyui001.png "DailyUI 001")
+
+Update...since posting this early this morning my dribbble submission is on the home page in the first slot. I don't know if that means anything but I'm getting quite a few likes. Yay! Now on to DailyUI002 which is a credit card payment gateway if I recall correctly.
