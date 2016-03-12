@@ -1,0 +1,11 @@
+---
+layout: post
+title:   DailyUI 001
+date:   2016-03-12
+categories: blog DailyUI
+---
+ Instructions were: Design a sign up page, modal, form, app screen, etc. <!-- more -->
+
+ My first DailyUI assignment!
+
+(/i/dailyui001.png "DailyUI 001")
