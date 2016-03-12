@@ -1,0 +1,9 @@
+---
+layout: post
+title:   DailyUI 002
+date:   2016-03-12
+categories: blog DailyUI
+---
+ Instructions were: Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc. <!-- more -->
+
+![dailyui002](/i/dailyui002.png "DailyUI 002")
