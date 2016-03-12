@@ -8,4 +8,4 @@ categories: blog DailyUI
 
  My first DailyUI assignment!
 
-(/i/dailyui001.png "DailyUI 001")
+![dailyui001](/i/dailyui001.png "DailyUI 001")
