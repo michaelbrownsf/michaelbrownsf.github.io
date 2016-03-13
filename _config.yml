@@ -49,7 +49,7 @@ tel: 512.784.0731
 # Members information. Shown on About page.
 members:
   - name: Roscoe
-    position: Lead Boston Terrier
+    position: Cuddle Buddy
     text: Fetch, fetch and more fetch!
     img: team01.jpg
 
@@ -62,4 +62,4 @@ members:
 
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Actively seeking employment opportunites in UI or front end developement."
+about: "Actively seeking employment opportunites in UI or front end developement and willing to relocate."
