@@ -9,10 +9,10 @@ categories:
 img: portfolio_04.jpg
 carousel:
 - res01.png
-
+website: http://michaelbrownsf.github.io/assets/resume/michaelbrown.pdf
 client: self
 ---
 
 Boring resumes are boring. I wanted something that gave the reader the sense that I am serious about visuals.
 
-Sadly, even though I like the look of it, it simply doesn't provide enough information to a prospective employer so I've gone back to the standard word format.  
+Sadly, even though I like the look of it, it simply doesn't provide enough information to a prospective employer so I've gone back to the standard format.  You can download my current resume using the link above.
