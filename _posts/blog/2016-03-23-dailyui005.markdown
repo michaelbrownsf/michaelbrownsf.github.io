@@ -1,0 +1,11 @@
+---
+layout: post
+title:   DailyUI 003
+date:   2016-03-12
+categories: blog DailyUI
+---
+ Instructions were: Design an app icon.<!-- more -->
+
+Hint: Design an app icon. What best represents the brand or product? Or is it incredibly unique? Does it look great at a distance and does it stand out when put on your home screen alongside other apps?
+
+![dailyui005](/i/dailyui005.png "DailyUI 005")
