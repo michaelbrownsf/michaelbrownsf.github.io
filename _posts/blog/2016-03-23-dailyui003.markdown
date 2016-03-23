@@ -1,0 +1,14 @@
+---
+layout: post
+title:   DailyUI 003
+date:   2016-03-12
+categories: blog DailyUI
+---
+ Instructions were: Design a landing page.<!-- more -->
+
+Hint: What's the main focus?
+Is it for a book, an album, a mobile app, a product?
+Consider important landing page elements
+(call-to-actions, clarity, etc.)
+
+![dailyui003](/i/dailyui003.png "DailyUI 003")
